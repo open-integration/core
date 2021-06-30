@@ -38,7 +38,7 @@ require (
 	github.com/zealic/xignore v0.3.3 // indirect
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602
-	google.golang.org/grpc v1.38.0
+	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/hairyhenderson/yaml.v2 v2.2.2
 	gopkg.in/square/go-jose.v2 v2.4.1 // indirect
